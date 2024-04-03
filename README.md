@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=33&pause=1000&width=435&lines=Task+Management;Apply+your+job+today!;React+Application)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=33&pause=1000&width=435&lines=Task+Management;Create+your+task+today!;React+Application)](https://git.io/typing-svg)
 
 <h3> Live Site : https://task-management-ec9ee.web.app </h3>
 
