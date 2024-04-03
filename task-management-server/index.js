@@ -101,7 +101,7 @@ app.get('/task', async (req, res) => {
   res.send(result);
 })
 
-app.get('/task/:id', async (req, res) => {
+app.get('task/:id', async (req, res) => {
     try {
       const id = req.params.id;
       const query = { _id: new ObjectId(id) }
