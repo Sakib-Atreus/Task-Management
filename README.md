@@ -11,3 +11,8 @@
 - Also user can update or delete their task
 - Available user dashboard and blog section
 - And for create task, user must need to first create a account
+
+
+## **Contact**
+For support or inquiries, reach out
+- Email: sakibmia0718@gmail.com
