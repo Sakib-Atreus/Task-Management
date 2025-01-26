@@ -113,14 +113,12 @@ app.get('task/:id', async (req, res) => {
     }
   });
 
-
 //my task added
 app.get("/task/:email", async (req, res) => {
   console.log(req.params.email);
   const result = await TaskCollection.find({ email: req.params.email }).toArray();
   res.send(result);
 })
-
 
 //search text
 app.get('/searchText/:text', async (req, res) => {
